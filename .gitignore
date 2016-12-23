@@ -1,0 +1,5 @@
+.bundle
+vendor/bundle/
+.after_bundle_install.rb
+log/development.log
+tmp/restart.txt
